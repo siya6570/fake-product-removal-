@@ -1,1 +1,1 @@
-# fake-product-removal-
+# fake-product-removal-To find out fake review in the website this “Fake Product Review Monitoring and Removal for Genuine Online Product Reviews Using Opinion Mining” system is introduced. This system will find out fake reviews made by posting fake comments about a product by identifying the IP address along with review posting patterns.
